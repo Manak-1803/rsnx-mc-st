@@ -1,0 +1,13 @@
+name = "Cobblemon: Run & Bun Trainer DP"
+filename = "AstroTrainersDP-2.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VvB0TIIH/versions/QKQ16Y2y/AstroTrainersDP-2.1.zip"
+hash-format = "sha512"
+hash = "8b62ecd226a373ead7d5b833322453369badb975dc8fb6f7aac04f831a0202a55df65518a169f015eac6ca44090a09d4579fe69ec713997981b09d61aaed654b"
+
+[update]
+[update.modrinth]
+mod-id = "VvB0TIIH"
+version = "QKQ16Y2y"

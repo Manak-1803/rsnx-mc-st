@@ -1,0 +1,13 @@
+name = "Sounds Be Gone!"
+filename = "soundsbegone-neoforge-1.6.0+mc1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FOIvwGKz/versions/TYIqHMLq/soundsbegone-neoforge-1.6.0%2Bmc1.21.jar"
+hash-format = "sha512"
+hash = "b3dcdff933cc5b69119ecb9635f43eeada1b86cb698b17b55e556d489048fce96be2a69bbef2181b2c4ee1ef479cd7ce047056bde4035b338e74c92752e63517"
+
+[update]
+[update.modrinth]
+mod-id = "FOIvwGKz"
+version = "TYIqHMLq"
